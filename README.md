@@ -24,11 +24,11 @@ overall match performance had a greater impact than toss advantage.
 Eden Gardens (Kolkata) recorded the highest average first innings score during the 2022 season, 
 indicating that it was one of the more batting-friendly venues.
 
-**Top Performances**
+**3. Top Performances**
 
 The analysis highlights strong performances from players such as **Jos Buttler** and **Yuzvendra Chahal**, who featured prominently in batting and bowling statistics.
 
-**Match Result Trends**
+**4. Match Result Trends**
 
 Match results were analyzed to understand whether teams were more successful chasing targets or defending totals.  
 The distribution of wins by runs and by wickets provides insight into match strategies during the season.
