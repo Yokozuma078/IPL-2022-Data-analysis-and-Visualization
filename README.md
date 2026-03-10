@@ -20,6 +20,9 @@ Teams that won the toss won the match approximately **48.65% of the time**, sugg
 overall match performance had a greater impact than toss advantage.
 
 **2. Venue Analysis**
+## Venue Analysis
+
+![Average First Innings Score](images/Avg first innings score.png)
 
 Eden Gardens (Kolkata) recorded the highest average first innings score during the 2022 season, 
 indicating that it was one of the more batting-friendly venues.
